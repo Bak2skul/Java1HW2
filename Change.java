@@ -1,8 +1,8 @@
 /**
     fileName:_______Change.java
-    Student:________Tartaglia-Malter, Joe
-    Prof:___________Dr. Blaer, P.
-    Class:__________COMS W1004, Section 1
+    Student:________
+    Prof:___________
+    Class:__________
     Date:___________26/09/24 (dd/mm/yy)
     Instructions:___Implement a program that directs a cashier how to give change. 
                     The program has two inputs: the amount due AND the amount received form the customer. 
