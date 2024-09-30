@@ -3,9 +3,9 @@
 Minutes.java - add your solutiuon to program 2 of homework 1 here.
 
     fileName:_______Minutes.java
-    Student:________Tartaglia-Malter, Joe
-    Prof:___________Dr. Blaer, P.
-    Class:__________COMS W1004
+    Student:________
+    Prof:___________
+    Class:__________
     Date:___________26/09/24 (dd/mm/yy)
     Instructions:___Create an application in Java that asks a user for a number of hours, days, weeks, and years.
                     It then computes the equivalent number of minutes (ignoring leap years).
