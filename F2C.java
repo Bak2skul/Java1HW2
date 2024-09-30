@@ -1,8 +1,8 @@
 /*
     fileName:________F2C.java
-    Student:_________Tartaglia-Malter, Joe
-    Prof:____________Dr. Blaer, P.
-    Class:___________COMS W1004, Section 1
+    Student:_________
+    Prof:____________
+    Class:___________
     Date:____________26/09/24 (dd/mm/yy)
     Instructions:____Convert from degrees Fahrenheit to degrees Celsius.
                      The program should prompt for a temperature in Fahrenheit and output a temperature in Celsius.
